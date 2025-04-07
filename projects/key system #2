@@ -1,14 +1,14 @@
-local KeySystem = loadstring(game:HttpGet("https://raw.githubusercontent.com/OopssSorry/LuaU-Free-Key-System-UI/main/source.lua"))()
+local KeySystem = loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenith-Exploits-Empire/Zenith/refs/heads/main/projects/key%20systems%20%231"))()
 local KeyValid = false
 local response = KeySystem:Init({
 	Debug=false, -- <bool> Prints some output in console when true
-	Title="ExampleHub | Key System", -- <string or nil> Title of key system
-	Description=nil, -- <string or nil> Description of key system
-	Link="", -- <string> String to get key
-	Discord="test", -- <string or nil> Button to join your discord server
+	Title="Zephyr | Key System", -- <string or nil> Title of key system
+	Description="Please join our discord server to receive our key.", -- <string or nil> Description of key system
+	Link="https://discord.gg/JPEDCF5G2A", -- <string> String to get key
+	Discord="Get key", -- <string or nil> Button to join your discord server
 	SaveKey=false, -- <bool or nil> Just auto save key
 	Verify=function(key) -- <function> Verify is key valid
-		if key=="1234" then
+		if key=="zenith4life" then
       KeyValid=true
 			return true
 		else
@@ -19,4 +19,4 @@ local response = KeySystem:Init({
 })
 
 if not response or not KeyValid then return end
--- HERE YOUR SCRIPT
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenith-Exploits-Empire/Zenith/refs/heads/main/Zephyr%20v2", true))()-- HERE YOUR SCRIPT
