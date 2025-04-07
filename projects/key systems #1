@@ -79,8 +79,6 @@ local function MakeDraggable(topbarobject, object)
 	)
 end
 
--- Prints credits. Plase don't remove it
-print("Credits to https://github.com/OopssSorry")
 
 -- Library object definition
 local Lib = {}
