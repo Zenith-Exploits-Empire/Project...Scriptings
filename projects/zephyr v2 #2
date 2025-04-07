@@ -1,0 +1,22 @@
+local KeySystem = loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenith-Exploits-Empire/Zenith/refs/heads/main/projects/key%20systems%20%231"))()
+local KeyValid = false
+local response = KeySystem:Init({
+	Debug=false, -- <bool> Prints some output in console when true
+	Title="Zephyr | Key System", -- <string or nil> Title of key system
+	Description="Please join our discord server to receive our key.", -- <string or nil> Description of key system
+	Link="https://discord.gg/JPEDCF5G2A", -- <string> String to get key
+	Discord="Get key", -- <string or nil> Button to join your discord server
+	SaveKey=false, -- <bool or nil> Just auto save key
+	Verify=function(key) -- <function> Verify is key valid
+		if key=="zenith4life" then
+      KeyValid=true
+			return true
+		else
+			return false
+		end
+	end,
+	GuiParent = game.CoreGui, -- <object or nil> :3
+})
+
+if not response or not KeyValid then return end
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenith-Exploits-Empire/Zenith/refs/heads/main/Zephyr%20v2", true))()-- HERE YOUR SCRIPT
