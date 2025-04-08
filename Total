@@ -45,8 +45,3 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenith-Exploits-Empir
 # Developer script
 ```dev123```
 ```loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenith-Exploits-Empire/key-script/refs/heads/main/Developer%20script", true))()```
-
-Developer script
-key: n/a
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenith-Exploits-Empire/key-script/refs/heads/main/Developer%20script", true))()
-
