@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenith-Exploits-Empire/Raw/refs/heads/main/Autofarm%20script", true))()
