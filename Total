@@ -1,26 +1,29 @@
 Main script
 key: main263
-```loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenith-Exploits-Empire/key-script/refs/heads/main/main%20script", true))()```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenith-Exploits-Empire/key-script/refs/heads/main/main%20script", true))()
 
 
 Closet script
 key: closet345
-```loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenith-Exploits-Empire/key-script/refs/heads/main/closet%20script", true))()```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenith-Exploits-Empire/key-script/refs/heads/main/closet%20script", true))()
 
 
 Autofarm script
-key: auto925
-```loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenith-Exploits-Empire/key-script/refs/heads/main/autofarm%20script", true))()```
+key: auto92
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenith-Exploits-Empire/key-script/refs/heads/main/autofarm%20script", true))()
 
 
-zephyr v2
-```loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenith-Exploits-Empire/key-script/refs/heads/main/zephyr%20v2", true))()```
+Zephyr v2
+key: zenith4life
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenith-Exploits-Empire/key-script/refs/heads/main/zephyr%20v2", true))()
 
 
-mobile
-```loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenith-Exploits-Empire/key-script/refs/heads/main/Mobile%20script", true))()```
+Mobile v2
+key: mob360
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenith-Exploits-Empire/key-script/refs/heads/main/Mobile%20script", true))()
 
 
-developer
-```loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenith-Exploits-Empire/key-script/refs/heads/main/Developer%20script", true))()```
+Developer script
+key: n/a
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenith-Exploits-Empire/key-script/refs/heads/main/Developer%20script", true))()
 
