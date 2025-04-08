@@ -1,1 +1,1 @@
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenith-Exploits-Empire/key-script/refs/heads/main/Mobile%20script", true))()
